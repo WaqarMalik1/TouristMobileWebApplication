@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="TouristApp.xsl" type="text/xsl"?>
+<Tourist_Attractions>
+
+<Attractionsone>
+
+<Name>	Buckingham Palace	</Name>
+
+<Address_Line1>		Buckingham Palace	</Address_Line1>
+<Address_Line2>		London				</Address_Line2>
+<Town>				Green Park			</Town>
+<Post_Code>			SW1A 1AA			</Post_Code>
+
+
+<Picture_Of_Attraction>	BuckinghamPalace.JPG </Picture_Of_Attraction>
+
+<Local_Tube_Stations>	
+<mainpage>Londonbirdseye.jpg</mainpage>
+Victoria 
+ST James'Park
+Green Park
+
+</Local_Tube_Stations>
+
+<Attraction_Price> 
+
+Adult  £19.00								
+Over 60/ Student (with valid ID)  £17.50	
+Under 17  £10.85							
+Under 5  Free								
+Family  £50.00 (2 adults and 3 under 17s)
+
+</Attraction_Price>
+
+<Short_Description_Of_Attraction>
+
+Buckingham Palace is the Queen's official and main royal London home. It has been the official London residence of Britain's monarchy since 1837.
+Queen Victoria was the first monarch to live there.
+
+</Short_Description_Of_Attraction>
+
+<Long_Description_Of_Attraction>
+
+Buckingham Palace today comprises more than 600 rooms and has been built around a country house originally designed for the Duke of Buckingham in 1705.
+
+Buckingham Palace was bought by George III in 1762 and enlarged in the 19th Century to form four wings around a central quadrangle. 
+The neoclassical frontage of the east wing faces out towards a ceremonial road - the Mall - and supports a balcony on which the Royal Family 
+traditionally congregate to greet the crowds outside the gates. Between the east wing and the gates is the forecourt where the Changing of the 
+Guard takes place. The Royal Standard is flown from the flagpole above the central pediment when the queen is in residence. The Queen holds court 
+in London between April and mid-August and this period is known as 'the season'. In mid-August the Queen moves to one of her other residences in 
+Windsor, Sandringham and Balmoral, and the State Rooms are opened to the public. The Queens Gallery to the rear of the palace is open all year. 
+The Queen Victoria Memorial stands at end of the Mall in front of the palace and was dedicated to Victoria by her grandson George V in 1911. 
+Queen Victoria is portrayed  on the pedestal looking away from the palace north eastwards down the mall. On the other three sides of the monument 
+are bronze statues of the Angels of Charity Truth and Justice. Atop the pillar behind Queen Victoria is a winged figure in gold and he balustrade 
+surrounding the monument is decorated with mermaids and mermen.
+
+
+</Long_Description_Of_Attraction>
+
+<Attraction_Oppening_Hours>	
+
+Opening times for 2014 will be announced shortly
+
+</Attraction_Oppening_Hours>
+
+<Category_Of_Attraction>	
+
+Sight Seeing
+
+</Category_Of_Attraction>
+
+</Attractionsone>
+
+
+<Attractionstwo>
+
+<Name>	London Eye	</Name>
+
+<Address_Line1>		Riverside Bldg			</Address_Line1>
+<Address_Line2>		Westminster Bridge Rd	</Address_Line2>
+<Town>				London					</Town>
+<Post_Code>			SE1 7PB					</Post_Code>
+
+<Picture_Of_Attraction>	LondonEye.JPG	</Picture_Of_Attraction>
+
+<Local_Tube_Stations>	
+
+Waterloo		 
+Embankment		
+Westminster	
+
+</Local_Tube_Stations>
+
+<Attraction_Price> 
+
+
+Adults (16+)	£19.20
+Child (4-15 yrs)	£12.30
+Under 17  £10.85							
+Child (Under 4)	FREE						
+Family of Four**	£63.00					
+Senior	£15.30								
+
+</Attraction_Price>
+
+<Short_Description_Of_Attraction>
+
+The London Eye is 135 meters high which means it was the world's tallest observation wheel when built in 1999. 
+
+</Short_Description_Of_Attraction>
+
+<Long_Description_Of_Attraction>
+
+London eye is the most popular paid tourist attraction in the United Kingdom, visited by over 3.5 million people annually. When erected in 1999 it was 		
+the tallest Ferris wheel in the world, until surpassed first by the 160 m (520 ft) Star of Nanchang in 2006 and then the 165 m (541 ft) Singapore Flyer 	
+in 2008. Supported by an A-frame on one side only, unlike the taller Nanchang and Singapore wheels, the Eye is described by its operators as "the world's			
+tallest cantilevered observation wheel". It offered the highest public viewing point in the city[citation needed] until it was superseded by the 245-metre (804 ft)	
+observation deck on the 72nd floor of The Shard, which opened to the public on 1 February 2013. The London Eye, or Millennium Wheel, was officially called the 			
+British Airways London Eye and then the Merlin Entertainments London Eye. Since 20 January 2011, its official name is the EDF Energy London Eye following 			
+a three-year sponsorship deal.
+
+</Long_Description_Of_Attraction>
+
+<Attraction_Oppening_Hours>	
+
+1st January - 28th March 		
+10am - 8.30pm 					
+29th March - 14th April				
+10am - 9.30pm					
+15th April - 27th June			
+10am - 9pm						
+28th June - 31st August			
+10am - 9.30pm					
+1st September - 30th December	
+10am - 8.30pm					
+24th December					
+10 am - 5.30pm						
+31st December						
+10am - 3pm						
+
+</Attraction_Oppening_Hours>
+
+<Category_Of_Attraction>	
+
+Sight Seeing
+
+</Category_Of_Attraction>
+
+</Attractionstwo>
+
+
+<Attractionsthree>
+
+<Name>	Big Ben	</Name>
+
+<Address_Line1>		Big Ben			</Address_Line1>
+<Address_Line2>		Westminster		</Address_Line2>
+<Town>				London			</Town>
+<Post_Code>			SW1A 0AA		</Post_Code>
+
+<Picture_Of_Attraction>	BigBen.JPG	</Picture_Of_Attraction>
+
+<Local_Tube_Stations>	
+		 
+Embankment		
+Westminster	
+ST Jame's Park
+
+</Local_Tube_Stations>
+
+<Attraction_Price> 
+							
+FREE
+
+</Attraction_Price>
+
+<Short_Description_Of_Attraction>
+
+Big Ben is one of the most symbolic London attractions and perhaps London’s single most famous site. 
+
+</Short_Description_Of_Attraction>
+
+<Long_Description_Of_Attraction>
+
+The clock inside the tower was the world's largest when it was installed in the middle of the 19th century. The name Big Ben actually refers to the clock's 
+hour bell, the largest of the clock's five bells. The other four are used as quarter bells.There were two bells cast as the clock tower's hour bell. A first, 
+16 ton weighing bell was cast by John Warner and Sons in 1856. Since the Clock Tower was not yet completed, the bell was hung temporarily in the Palace Yard. 
+The bell soon cracked so it was recast in 1858 in the Whitechapel Bell Foundry as a 13.5 ton bell. Unfortunately soon after this bell was placed in the belfry 
+in July 1859, it cracked as well. This time, instead of yet again recasting the bell, the crack was repaired and a lighter hammer was used to prevent any 
+more cracks. The hour bell was probably named after Benjamin Hall, the First Commissioner of Works. Some sources however claim the bell was named after Benjamin 
+Caunt, a British heavyweight boxing champion. The clock was the largest in the world and is still the largest in Great-Britain. The clock faces have a diameter 
+of almost 25ft (7.5m). The hour hand is 9ft or 2.7m long and the minute hand measures 14ft (4.25m) long. 
+
+</Long_Description_Of_Attraction>
+
+<Attraction_Oppening_Hours>	
+
+Tours Mon to Fri 9.15am, 10.15am, 11.15am 2.15pm
+
+Max number: 16 people per tour
+
+</Attraction_Oppening_Hours>
+
+<Category_Of_Attraction>	
+
+Touring Sight Seeing
+
+</Category_Of_Attraction>
+
+</Attractionsthree>
+
+
+<Attractionsfour>
+
+<Name>	The British Museum	</Name>
+
+<Address_Line1>		British Museum			</Address_Line1>
+<Address_Line2>		Great Russell St		</Address_Line2>
+<Town>				London					</Town>
+<Post_Code>			WC1B 3DG				</Post_Code>
+
+<Picture_Of_Attraction>	TheBritishMuseum.JPG	</Picture_Of_Attraction>
+
+<Local_Tube_Stations>	
+		 
+Tottenham Court Road		
+Holborn	
+Russell Square
+
+</Local_Tube_Stations>
+
+<Attraction_Price> 
+							
+FREE
+
+</Attraction_Price>
+
+<Short_Description_Of_Attraction>
+
+The British Museum first opened in the 18th Century largely based on the collections of the scientist Sir Hans Sloane.
+
+</Short_Description_Of_Attraction>
+
+<Long_Description_Of_Attraction>
+
+The current neo-classical building was erected nearly a century later and is quadrangular with four wings and an imposing classical facade. Inside is a courtyard,
+the Great Court, covered with a spectacular modern addition – a spiralling glass and steel roof which was designed by Norman Foster and completed in 2000. The
+courtyard surrounds the round Reading Room with a copper domed ceiling the same size as the dome of St Peter’s in Rome. The museum is Britain’s largest museum, one 
+of the oldest in the world and widely considered to be one of the world's greatest museums of human history and culture. The permanent collection comprises over 8 
+million objects spanning the history of the world's cultures from the stone tools of early man to twentieth century prints. The collection includes controversial items 
+including the Elgin Marbles from the Parthenon in Greece, Egyptian mummies and the Rosetta stone. 
+
+</Long_Description_Of_Attraction>
+
+<Attraction_Oppening_Hours>	
+
+Monday - Thursday
+
+10:00 - 17:00
+
+Friday
+
+10:00 - 20:00
+
+</Attraction_Oppening_Hours>
+
+<Category_Of_Attraction>	
+
+History
+
+</Category_Of_Attraction>
+
+</Attractionsfour>
+
+
+<Attractionsfive>
+
+<Name>	The Tower Of London	</Name>
+
+<Address_Line1>		Tower Of London		</Address_Line1>
+<Address_Line2>		Central London		</Address_Line2>
+<Town>				London				</Town>
+<Post_Code>			EC3N 4AB			</Post_Code>
+
+<Picture_Of_Attraction>	TheTowerOfLondon.JPG	</Picture_Of_Attraction>
+
+<Local_Tube_Stations>	
+		 
+Bank Station		
+Tower Hill Station
+covent Garden Station
+
+</Local_Tube_Stations>
+
+<Attraction_Price> 
+
+Adult £21.45
+Child (Under 16) £10.75
+Concessions £18.15
+Family £57.20							
+
+</Attraction_Price>
+
+<Short_Description_Of_Attraction>
+
+Her Majesty's Royal Palace and Fortress, more commonly known as the Tower of London, is a historic castle on the north bank of the River Thames in central London, England. 
+It lies within the London Borough of Tower Hamlets, separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill.
+
+</Short_Description_Of_Attraction>
+
+<Long_Description_Of_Attraction>
+
+The building of the Tower was begun in the 11th century by William the Conqueror, and completed in the 13th century. At various times it was a royal palace, the last monarch 
+to live there being James I in the early 17th century. It is best known, however, as a prison in which many famous people accused of crimes against the king or queen were kept. 
+These included Anne Boleyn and Thomas More. The Tower of London has many well-known features. These include the White Tower, which is the oldest part, the Bloody Tower, where 
+some prisoners were kept, and Traitor’s Gate, an entrance for prisoners on the bank of the river. The Crown Jewels have been kept there since 1303 and are on public display.
+Perhaps the most famous image associated with the Tower is that of the Yeomen Warders, the official guards, who are also known as beefeaters. They were established in the 16th 
+century and still wear costume of the Tudor period.
+
+</Long_Description_Of_Attraction>
+
+<Attraction_Oppening_Hours>	
+
+Summer opening times
+
+01 March - 31 October
+ 
+Tuesday - Saturday	09:00 - 17:30
+
+Sunday - Monday	10:00 - 17:30
+
+Last admission	17:00
+
+Winter opening times
+
+01 November - 28 February
+Tuesday - Saturday	09:00 - 16:30
+Sunday - Monday	10:00 - 16:30
+Last admission	16:00
+
+</Attraction_Oppening_Hours>
+
+<Category_Of_Attraction>	
+
+History
+Sight Seeing
+
+</Category_Of_Attraction>
+
+</Attractionsfive>
+
+</Tourist_Attractions>
